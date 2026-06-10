@@ -66,3 +66,8 @@ server/.venv/
 
 # Logs
 *.log
+
+# Environment files
+.env*
+!.env.example
+
