@@ -1,6 +1,6 @@
 # VoIP Call Voice Changer
 
-[![CI](https://github.com/SucceedHQ/voice-changer-android/actions/workflows/ci.yml/badge.svg)](https://github.com/SucceedHQ/voice-changer-android/actions/workflows/ci.yml)
+[![CI](https://github.com/SucceedHQ-innovations/voice-changer-android/actions/workflows/ci.yml/badge.svg)](https://github.com/SucceedHQ-innovations/voice-changer-android/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.0.20-purple.svg)](https://kotlinlang.org)
 
